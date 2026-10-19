@@ -2,7 +2,7 @@
 
 ### About me:
 - 🔭 I’m currently looking for junior data analyst roles at remote enterprises.
-- 🌱 I’m an Industrial Engineer with a postgraduate specialization in High Management, and certified in Data Analytics (Python & SQL).
+- 🌱 I’m an Industrial Engineer with a postgraduate specialization in High Management, and certified in Data Analytics.
 - 👯 I I’m versatile in working with data cleaning, visualization, analysis and optimization to solve business problems.
 - ⚡ Fun fact: I like playing tennis.
 - 📫 How to reach me: [estebancanobustamante@gmail.com](mailto:estebancanobustamante@gmail.com)
