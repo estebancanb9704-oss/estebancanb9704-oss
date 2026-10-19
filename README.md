@@ -3,8 +3,8 @@
 ### About me:
 - 🔭 I’m currently looking for junior data analyst roles at remote enterprises.
 - 🌱 I’m an Industrial Engineer with a postgraduate specialization in High Management, and certified in Data Analytics (Python & SQL).
-- ❤️ I love working with data cleaning, visualization, and building dashboards to solve business problems.
-- ⚡ Fun fact: I collect scale diecast model cars and classic Toyotas.
+- 👯 I I’m versatile in working with data cleaning, visualization, analysis and optimization to solve business problems.
+- ⚡ Fun fact: I like playing tennis.
 - 📫 How to reach me: [estebancanobustamante@gmail.com](mailto:estebancanobustamante@gmail.com)
 
 ### Technical skills:
@@ -19,8 +19,6 @@
 [![pycharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
-### My stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=estebancanb9704-oss&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **estebancanb9704-oss/estebancanb9704-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
